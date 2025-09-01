@@ -11,10 +11,10 @@ const page = () => {
     <div>
     <HeroSection/>
     <WhoWeARE/>
-    {/* <Services/> */}
-    {/* <Features/>
+    <Services/>
+    <Features/>
     <Testimonials/>
-    <CallToAction/> */}
+    <CallToAction/>
 </div>
   )
 }
